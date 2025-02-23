@@ -1,6 +1,6 @@
 # Hi there, I'm [Harishkumar](https://github.com/harishkshanmugam) ! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=900&size=22&pause=1000&color=18C5F7&width=435&lines=Nice+to+meet+you;I'm+Software+Engineer;Digital+devotee;Additionally%2C+a+home+chef)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&weight=900&size=22&pause=1000&color=18C5F7&width=435&lines=Nice+to+meet+you;I'm+a+Software+Engineer;Digital+devotee;Additionally%2C+a+home+chef)](https://git.io/typing-svg)
 
 I'm an enthusiastic Full Stack Engineer with a deep love for programming and a keen interest in exploring the latest technologies. I excel at transforming complex challenges into elegant, efficient code. 🚀 Continuously seeking the next groundbreaking innovation in tech, let's connect and build something extraordinary together!
 ## Tech Stack ⚙️
